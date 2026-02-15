@@ -27,4 +27,4 @@ Given an image, the program detects keypoints and visualizes them for SIFT, ORB,
 
 ## How to run
 
-Update the image path and execute:
+Update the image path and execute.
